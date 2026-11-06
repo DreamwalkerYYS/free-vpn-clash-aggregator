@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:56:43.108684+00:00",
+  "generated_at": "2026-11-06T23:56:28.138489+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -21,7 +21,7 @@
       "url": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml",
       "ok": true,
       "received": 31,
-      "added": 14
+      "added": 15
     },
     {
       "name": "vxiaov/free_proxies",
@@ -63,7 +63,7 @@
       "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml",
       "ok": true,
       "received": 3646,
-      "added": 3130
+      "added": 3129
     },
     {
       "name": "chengaopan/AutoMergePublicNodes",
